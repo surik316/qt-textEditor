@@ -59,4 +59,4 @@
 * Сохранение настроек приложения в ini-файл.
 ### Диаграммы классов
 * MainWindow 
-<img src="https://user-images.githubusercontent.com/60616688/127751432-16cf55ee-efd0-441f-94db-722e9a614dcf.png" width="400" height="790">
+<img src="https://user-images.githubusercontent.com/60616688/127751432-16cf55ee-efd0-441f-94db-722e9a614dcf.png" width="700" height="790">
