@@ -60,3 +60,19 @@
 ### Диаграммы классов
 * MainWindow 
 <img src="https://user-images.githubusercontent.com/60616688/127751432-16cf55ee-efd0-441f-94db-722e9a614dcf.png" width="700" height="790">
+* Syntax Class
+<img width="658" alt="SyntaxClass" src="https://user-images.githubusercontent.com/60616688/127751505-f9621d08-7b41-466b-ab16-c82cdfee568e.png">
+* CodeEditor Class
+<img width="699" alt="CodeEditor" src="https://user-images.githubusercontent.com/60616688/127751520-1993eb33-ea4a-44d6-9f84-9877f7cf8d01.png">
+* LineNumberArea Class
+<img width="421" alt="LineNumberArea" src="https://user-images.githubusercontent.com/60616688/127751524-3ba1f91a-c7a3-46d4-94f0-236f5d8f4c67.png">
+* ReferenceWindow  Class
+<img width="580" alt="ReferenceWindow" src="https://user-images.githubusercontent.com/60616688/127751528-a702c3bb-3fd6-4b9c-8a29-9355964046e9.png">
+* ReferenceWindow  Class
+<img width="545" alt="changeSyntax" src="https://user-images.githubusercontent.com/60616688/127751539-c39a62f3-4302-48fb-8545-f1df5547f2ee.png">
+* SearchHighlight  Class
+<img width="549" alt="SeatchHighLight" src="https://user-images.githubusercontent.com/60616688/127751552-2483433e-bb1a-4385-a6cf-2d31051ffe16.png">
+* FindAndReplace Class
+<img width="632" alt="FindAndReplace" src="https://user-images.githubusercontent.com/60616688/127751560-79beae32-ac39-4195-b59d-e5abf0886dc2.png">
+
+
